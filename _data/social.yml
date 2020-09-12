@@ -1,6 +1,6 @@
 # Icons on the footer
 rss: true
-email_address:    # Full email address, e.g. "sam@example.com"
+email_address: "jufilhote@id.uff.br"    # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
@@ -8,7 +8,7 @@ facebook:
 flickr:
 gitlab:
 github: "julianatfg"
-instagram:
+instagram: "sublondon"
 keybase:
 linkedin:         # Full URL
 pinterest:
@@ -18,9 +18,9 @@ stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter:          # "twitter username"
+twitter: "juleees"          # "twitter username"
 vimeo:
-wordpress:
+wordpress: 
 youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
 
 # rss specify feed path
@@ -29,12 +29,12 @@ feed:
 
 # Share button options
 share:
-  facebook: true
+  facebook: false
   twitter: true
-  tumblr:
+  tumblr: true
   pinterest:
-  pocket:
+  pocket: true
   reddit: true
   linkedin:
-  wordpress:
+  wordpress: true
   email: true
